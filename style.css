@@ -1,0 +1,135 @@
+header{
+    background-color: #1F2937;
+    padding-bottom: 60px;
+}
+nav {
+    display: flex;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2rem;
+
+}
+nav>img {
+    border-radius: 25px;
+}
+nav > ul {
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+}
+.headerClass{
+    display: flex;
+    gap: 2rem;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    justify-content: space-between;
+}
+h4 {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+h1 {
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
+p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+ul> li > a{
+    font-size: 18px;
+    color: #E5E7EB;
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+}
+
+h2 {
+    text-align: center;
+}
+.container {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+}
+.container> li > div {
+    border: 3px solid #1F2937;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+}
+.paragraph{
+    color: black;
+    text-align: center;
+}
+.Detail_Development {
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+}
+.another_One {
+    background-color: #E5E7EB;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    
+}
+.another_Two {
+    background-color: #3882F6;
+    border-radius: 15px;
+    width: 50%;
+
+    margin-left: auto;
+    margin-right: auto;    
+    display: flex;
+    justify-content: center;
+   
+}
+.another_One > p {
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+}
+.two {
+    display: flex;
+    gap: 42rem;
+    align-items: center;
+}
+h3{
+    color: white;
+    font-size: 38px;
+}
+button {
+    border: 3px solid white;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    background-color: transparent;
+    font-size: 24px;
+    color: #F9FAF8;
+}
+footer {
+    background-color: #1F2937;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 100px;
+}
+.Sign_Up {
+    padding-left:200px
+    padding-right:20px
+    padding-top:10px;
+    padding-bottom:10px
+    background-color: #3882F6;
+    font-size: 24px;
+    color: #F9FAF8;
+
+}
